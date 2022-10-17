@@ -1,0 +1,83 @@
+[INFO ] 2022-10-14 08:25:38.403 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 08:25:38.425 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 08:25:40.961 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 08:25:45.187 [main] Log - validLoginTest_validUsernameValidPassword test is succeed.
+[INFO ] 2022-10-14 08:25:45.815 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 08:25:45.817 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-10-14 08:33:12.295 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 08:33:12.313 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 08:33:14.664 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 08:33:18.380 [main] Log - validLoginTest_validUsernameValidPassword test is skipped.
+[INFO ] 2022-10-14 08:33:19.030 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 08:33:19.035 [main] Log - validLoginTest_validUsernameValidPassword test is failed.
+[INFO ] 2022-10-14 08:33:19.035 [main] Log - validLoginTest_validUsernameValidPassword test is failed.
+[INFO ] 2022-10-14 08:33:19.036 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 08:33:19.037 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2022-10-14 17:01:54.326 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 17:01:54.343 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:01:59.525 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is starting.
+[INFO ] 2022-10-14 17:02:15.585 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is skipped.
+[INFO ] 2022-10-14 17:02:16.248 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is starting.
+[INFO ] 2022-10-14 17:02:16.251 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is failed.
+[INFO ] 2022-10-14 17:02:16.252 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is failed.
+[INFO ] 2022-10-14 17:02:16.253 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2022-10-14 17:03:08.277 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:03:16.935 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:03:31.631 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:03:50.205 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:05:08.569 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 17:05:08.592 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:05:10.744 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is starting.
+[INFO ] 2022-10-14 17:05:18.586 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is succeed.
+[INFO ] 2022-10-14 17:05:19.238 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 17:05:19.252 [main] Log - validLoginTest_validUsernameValidPassword test is failed.
+[INFO ] 2022-10-14 17:05:19.253 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:05:19.254 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2022-10-14 17:06:05.333 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:06:20.616 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:08:05.779 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:08:16.256 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:08:25.109 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:08:36.449 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:08:50.721 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 17:08:50.742 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:08:52.973 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is starting.
+[INFO ] 2022-10-14 17:08:58.930 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is succeed.
+[INFO ] 2022-10-14 17:08:59.571 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 17:08:59.586 [main] Log - validLoginTest_validUsernameValidPassword test is failed.
+[INFO ] 2022-10-14 17:08:59.587 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:08:59.588 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2022-10-14 17:11:33.337 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 17:11:33.359 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:11:35.548 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is starting.
+[INFO ] 2022-10-14 17:11:47.983 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is succeed.
+[INFO ] 2022-10-14 17:11:48.604 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 17:11:48.620 [main] Log - validLoginTest_validUsernameValidPassword test is failed.
+[INFO ] 2022-10-14 17:11:48.621 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:11:48.622 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2022-10-14 17:16:29.504 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:16:47.582 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:16:57.654 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:17:14.690 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:17:27.869 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 17:17:27.899 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:17:30.442 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is starting.
+[INFO ] 2022-10-14 17:17:45.978 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is succeed.
+[INFO ] 2022-10-14 17:17:45.984 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:17:46.615 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:17:47.827 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 17:18:02.015 [main] Log - validLoginTest_validUsernameValidPassword test is succeed.
+[INFO ] 2022-10-14 17:18:02.015 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:18:02.682 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2022-10-14 17:22:03.288 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:22:16.739 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:22:37.074 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-14 17:22:39.209 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:22:39.221 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is starting.
+[INFO ] 2022-10-14 17:22:49.436 [main] Log - validLoginTest_invalidUsernameinvalidPassword test is succeed.
+[INFO ] 2022-10-14 17:22:49.442 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:22:51.271 [main] Log - Tests is starting!
+[INFO ] 2022-10-14 17:22:51.272 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-14 17:23:06.075 [main] Log - validLoginTest_validUsernameValidPassword test is succeed.
+[INFO ] 2022-10-14 17:23:06.076 [main] Log - Tests are ending!
+[INFO ] 2022-10-14 17:23:06.702 [main] Log - I am in on Finish method LoginTest

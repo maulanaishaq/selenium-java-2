@@ -1,0 +1,8 @@
+[INFO ] 2022-10-13 21:35:32.829 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-13 21:35:35.102 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-13 21:35:44.992 [main] Log - validLoginTest_validUsernameValidPassword test is succeed.
+[INFO ] 2022-10-13 21:35:45.623 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-10-13 21:53:53.958 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-13 21:53:56.308 [main] Log - validLoginTest_validUsernameValidPassword test is starting.
+[INFO ] 2022-10-13 21:54:14.093 [main] Log - validLoginTest_validUsernameValidPassword test is succeed.
+[INFO ] 2022-10-13 21:54:14.733 [main] Log - I am in onFinish method LoginTest
