@@ -1,0 +1,20 @@
+[INFO ] 2022-10-15 15:37:25.340 [main] Log - Tests is starting!
+[INFO ] 2022-10-15 15:37:39.580 [main] Log - Tests are ending!
+[INFO ] 2022-10-15 15:37:54.510 [main] Log - Tests is starting!
+[INFO ] 2022-10-15 15:38:11.655 [main] Log - Tests are ending!
+[INFO ] 2022-10-15 15:38:55.598 [main] Log - Tests is starting!
+[INFO ] 2022-10-15 15:39:05.426 [main] Log - Tests are ending!
+[INFO ] 2022-10-15 15:42:30.226 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-15 15:42:32.582 [main] Log - Tests is starting!
+[INFO ] 2022-10-15 15:42:32.594 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2022-10-15 15:42:41.612 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2022-10-15 15:42:41.618 [main] Log - Tests are ending!
+[INFO ] 2022-10-15 15:42:43.475 [main] Log - Tests is starting!
+[INFO ] 2022-10-15 15:42:43.476 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2022-10-15 15:42:52.385 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2022-10-15 15:42:52.386 [main] Log - Tests are ending!
+[INFO ] 2022-10-15 15:42:54.179 [main] Log - Tests is starting!
+[INFO ] 2022-10-15 15:42:54.179 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2022-10-15 15:43:08.420 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2022-10-15 15:43:08.421 [main] Log - Tests are ending!
+[INFO ] 2022-10-15 15:43:09.054 [main] Log - I am in on Finish method LoginTest
