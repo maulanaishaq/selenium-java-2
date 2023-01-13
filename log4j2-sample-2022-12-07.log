@@ -1,0 +1,18 @@
+[INFO ] 2022-12-07 13:49:21.837 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-12-07 13:49:30.491 [main] Log - Tests is starting!
+[INFO ] 2022-12-07 13:49:30.501 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2022-12-07 13:49:33.149 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2022-12-07 13:49:33.156 [main] Log - Tests are ending!
+[INFO ] 2022-12-07 13:49:35.352 [main] Log - Tests is starting!
+[INFO ] 2022-12-07 13:49:35.353 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2022-12-07 13:49:35.704 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2022-12-07 13:49:35.705 [main] Log - Tests are ending!
+[INFO ] 2022-12-07 13:49:37.839 [main] Log - Tests is starting!
+[INFO ] 2022-12-07 13:49:37.840 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2022-12-07 13:49:38.192 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2022-12-07 13:49:38.194 [main] Log - Tests are ending!
+[INFO ] 2022-12-07 13:49:40.323 [main] Log - Tests is starting!
+[INFO ] 2022-12-07 13:49:40.326 [main] Log - addToCartTest test is starting.
+[INFO ] 2022-12-07 13:49:40.871 [main] Log - addToCartTest test is succeed.
+[INFO ] 2022-12-07 13:49:40.872 [main] Log - Tests are ending!
+[INFO ] 2022-12-07 13:49:41.498 [main] Log - I am in on Finish method LoginTest

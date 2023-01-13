@@ -35,7 +35,7 @@ public class BasePage {
 
     public Boolean isDisplayed(By by){
         boolean result = waitElement(by).isDisplayed();
-        return true;
+        return result;
     }
 
     public String getText(By by){
