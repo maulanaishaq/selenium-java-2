@@ -1,0 +1,14 @@
+pages\BasePage.class
+tests\InventoryTests.class
+pages\LoginPage.class
+utils\extentreports\ExtentTestManager.class
+tests\BaseTest.class
+utils\logs\Log.class
+utils\listeners\TestListener.class
+utils\extentreports\ExtentManager.class
+pages\InventoryPage.class
+utils\listeners\AnnotationTransformer.class
+utils\logs\JSErrorLogs.class
+WebTableRowCol.class
+tests\LoginTests.class
+utils\listeners\Retry.class

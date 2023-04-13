@@ -35,7 +35,7 @@ public class LoginTests extends BaseTest {
         startTest(method.getName(), "Login Scenario with valid username and valid password.");
         loginPage
                 .inputUsernamePassword("standard_user", "secret_sauce")
-                .verifyLoginSuccessfully(true, "PRODUCTS");
+                .verifyLoginSuccessfully(true, "Products");
 
     }
 

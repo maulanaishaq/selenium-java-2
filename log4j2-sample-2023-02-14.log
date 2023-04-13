@@ -1,0 +1,98 @@
+[INFO ] 2023-02-14 16:31:56.989 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-14 16:32:03.618 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 16:32:03.627 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-14 16:32:04.497 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-14 16:32:04.503 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 16:32:06.905 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 16:32:06.906 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-14 16:32:07.236 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-14 16:32:07.237 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 16:32:10.059 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 16:32:10.059 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-14 16:32:10.424 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-14 16:32:10.425 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 16:32:11.059 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2023-02-14 19:59:22.831 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-14 19:59:28.317 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 19:59:28.326 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-14 19:59:28.921 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-14 19:59:28.924 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 19:59:31.079 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 19:59:31.080 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-14 19:59:31.410 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-14 19:59:31.410 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 19:59:33.528 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 19:59:33.528 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-14 19:59:34.020 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-14 19:59:34.021 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 19:59:34.647 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2023-02-14 20:00:21.943 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-14 20:00:24.464 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 20:00:24.470 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-14 20:00:24.978 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-14 20:00:24.981 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 20:00:27.072 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 20:00:27.074 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-14 20:00:27.463 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-14 20:00:27.463 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 20:00:29.639 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 20:00:29.640 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-14 20:00:30.068 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-14 20:00:30.070 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 20:00:30.721 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2023-02-14 21:32:07.687 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-14 21:32:13.746 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:32:13.753 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-14 21:32:14.316 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-14 21:32:14.322 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:32:16.535 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:32:16.536 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-14 21:32:17.000 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-14 21:32:17.001 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:32:19.380 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:32:19.380 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-14 21:32:19.973 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-14 21:32:19.974 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:32:20.647 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2023-02-14 21:33:05.659 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-14 21:33:08.342 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:33:08.346 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-14 21:33:08.883 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-14 21:33:08.887 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:33:11.134 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:33:11.134 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-14 21:33:11.468 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-14 21:33:11.469 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:33:13.661 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:33:13.662 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-14 21:33:14.156 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-14 21:33:14.157 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:33:14.814 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2023-02-14 21:34:06.239 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-14 21:34:09.250 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:34:09.256 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-14 21:34:09.795 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-14 21:34:09.799 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:34:12.057 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:34:12.057 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-14 21:34:12.440 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-14 21:34:12.441 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:34:14.673 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:34:14.673 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-14 21:34:15.113 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-14 21:34:15.114 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:34:15.763 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2023-02-14 21:35:06.622 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-14 21:35:09.258 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:35:09.262 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-14 21:35:09.840 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-14 21:35:09.844 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:35:12.089 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:35:12.090 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-14 21:35:12.491 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-14 21:35:12.493 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:35:14.677 [main] Log - Tests is starting!
+[INFO ] 2023-02-14 21:35:14.677 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-14 21:35:15.210 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-14 21:35:15.211 [main] Log - Tests are ending!
+[INFO ] 2023-02-14 21:35:15.863 [main] Log - I am in on Finish method LoginTest

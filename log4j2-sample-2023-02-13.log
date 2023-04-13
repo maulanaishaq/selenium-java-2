@@ -1,0 +1,28 @@
+[INFO ] 2023-02-13 16:24:15.614 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-13 16:24:21.619 [main] Log - Tests is starting!
+[INFO ] 2023-02-13 16:24:21.626 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-13 16:24:22.203 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-13 16:24:22.206 [main] Log - Tests are ending!
+[INFO ] 2023-02-13 16:24:24.562 [main] Log - Tests is starting!
+[INFO ] 2023-02-13 16:24:24.566 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-13 16:24:25.328 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-13 16:24:25.330 [main] Log - Tests are ending!
+[INFO ] 2023-02-13 16:24:27.678 [main] Log - Tests is starting!
+[INFO ] 2023-02-13 16:24:27.678 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-13 16:24:28.175 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-13 16:24:28.175 [main] Log - Tests are ending!
+[INFO ] 2023-02-13 16:24:28.837 [main] Log - I am in on Finish method LoginTest
+[INFO ] 2023-02-13 16:29:11.436 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-02-13 16:29:14.900 [main] Log - Tests is starting!
+[INFO ] 2023-02-13 16:29:14.910 [main] Log - invalidLoginTest_LockedOut test is starting.
+[INFO ] 2023-02-13 16:29:15.683 [main] Log - invalidLoginTest_LockedOut test is succeed.
+[INFO ] 2023-02-13 16:29:15.690 [main] Log - Tests are ending!
+[INFO ] 2023-02-13 16:29:17.884 [main] Log - Tests is starting!
+[INFO ] 2023-02-13 16:29:17.885 [main] Log - validLoginTest_ProblemUser test is starting.
+[INFO ] 2023-02-13 16:29:18.197 [main] Log - validLoginTest_ProblemUser test is succeed.
+[INFO ] 2023-02-13 16:29:18.198 [main] Log - Tests are ending!
+[INFO ] 2023-02-13 16:29:20.586 [main] Log - Tests is starting!
+[INFO ] 2023-02-13 16:29:20.586 [main] Log - validLoginTest_Successfully test is starting.
+[INFO ] 2023-02-13 16:29:21.014 [main] Log - validLoginTest_Successfully test is succeed.
+[INFO ] 2023-02-13 16:29:21.015 [main] Log - Tests are ending!
+[INFO ] 2023-02-13 16:29:21.678 [main] Log - I am in on Finish method LoginTest
