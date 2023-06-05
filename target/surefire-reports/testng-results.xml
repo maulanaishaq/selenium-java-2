@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-04T23:14:21 ICT" name="Test Suite" finished-at="2023-06-04T23:14:33 ICT" duration-ms="12155">
+    <groups>
+    </groups>
+    <test started-at="2023-06-04T23:14:21 ICT" name="LoginTest" finished-at="2023-06-04T23:14:33 ICT" duration-ms="12155">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="classLevelUp()[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:22 ICT" name="classLevelUp" finished-at="2023-06-04T23:14:25 ICT" duration-ms="3657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelUp -->
+        <test-method signature="invalidLoginTest_LockedOut(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:25 ICT" name="invalidLoginTest_LockedOut" finished-at="2023-06-04T23:14:26 ICT" duration-ms="1155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.invalidLoginTest_LockedOut(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest_LockedOut -->
+        <test-method is-config="true" signature="closedClass()[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:26 ICT" name="closedClass" finished-at="2023-06-04T23:14:27 ICT" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedClass -->
+        <test-method is-config="true" signature="classLevelUp()[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:27 ICT" name="classLevelUp" finished-at="2023-06-04T23:14:29 ICT" duration-ms="1758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelUp -->
+        <test-method signature="validLoginTest_ProblemUser(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:29 ICT" name="validLoginTest_ProblemUser" finished-at="2023-06-04T23:14:30 ICT" duration-ms="477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.validLoginTest_ProblemUser(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest_ProblemUser -->
+        <test-method is-config="true" signature="closedClass()[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:30 ICT" name="closedClass" finished-at="2023-06-04T23:14:30 ICT" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedClass -->
+        <test-method is-config="true" signature="classLevelUp()[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:30 ICT" name="classLevelUp" finished-at="2023-06-04T23:14:32 ICT" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelUp -->
+        <test-method signature="validLoginTest_Successfully(java.lang.reflect.Method)[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:32 ICT" name="validLoginTest_Successfully" finished-at="2023-06-04T23:14:33 ICT" duration-ms="394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTests.validLoginTest_Successfully(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest_Successfully -->
+        <test-method is-config="true" signature="closedClass()[pri:0, instance:tests.LoginTests@1cbb87f3]" started-at="2023-06-04T23:14:33 ICT" name="closedClass" finished-at="2023-06-04T23:14:33 ICT" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedClass -->
+      </class> <!-- tests.LoginTests -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Test Suite -->
+</testng-results>
